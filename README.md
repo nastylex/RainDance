@@ -45,14 +45,7 @@ my-prompts/
 
 ```markdown
 ---
-skills: [paywall-generator]
-answer: |
-  Use a 3-tier structure: Free, Pro at $4.99/mo, Teams at $12.99/mo.
-  Offer a 7-day free trial on Pro only.
 ---
-How should I price my subscription tiers for a fitness app?
-```
-
 - `skills:` — which skills to attach (defaults to skills whose names appear in the prompt)
 - `answer:` — the ideal assistant response (defaults to the attached skills' instructions)
 
