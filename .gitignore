@@ -1,0 +1,20 @@
+node_modules/
+dist/
+out/
+
+# Generated datasets (usually large)
+out/datasets/
+*.jsonl
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
